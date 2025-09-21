@@ -58,14 +58,11 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-
-<details>
-<summary> 🔐 Step 2: Get Your Session ID</summary>
  
 
 Authenticate using **one** of the methods below to generate your `Session ID`.
 
-> Get Pair Code (Session ID)
+ Get Pair Code (Session ID)
 
 
 
@@ -210,7 +207,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 > 🔔 Stay connected for updates, feature drops, and tutorials!
 
 - ▶️ **YouTube: ZEUSTech**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZEUS_MD_00)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
