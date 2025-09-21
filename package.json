@@ -1,11 +1,11 @@
 {
-  "name": "levanter",
+  "name": "𝗭𝗘𝗨𝗦",
   "version": "4.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name levanter",
-    "docker": "pm2-runtime start . --name levanter",
+    "start": "pm2 start . --attach --name 𝗭𝗘𝗨𝗗",
+    "docker": "pm2-runtime start . --name 𝗭𝗘𝗨𝗦",
     "stop": "pm2 stop levanter",
     "postinstall": "node -e \"try { require('sharp') } catch (e) { process.exit(1); }\" || yarn add --ignore-engines sharp@0.33.5"
   },
