@@ -1,5 +1,5 @@
 {
-  "name": "Levanter",
+  "name": "𝘇𝗲𝘂𝘀",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -33,7 +33,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,𝘇𝗲𝘂𝘀"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
